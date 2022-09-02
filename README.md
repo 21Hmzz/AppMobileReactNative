@@ -4,5 +4,5 @@ Ce projet est une application mobile multi plateforme codée avec REACT NATIVE ,
 - Trouver une prochaine réservation grâce à des recommandations.
 
 
-Le projet est en cours et pour l'instant l'application est fonctionnelle mais elle se contente du strict minimum en terme d'interaction mais au mois de celles importantes .
+Le projet est en cours et pour l'instant l'application est fonctionnelle mais elle se contente du strict minimum en terme d'interaction mais au moins de celles importantes .
 Le depots github contient uniquement les pages principales mais ne contient pas l'ensembles des dépendances requises, je mettrais à jour ce read me pour en faire une liste compléte.
